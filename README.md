@@ -17,7 +17,7 @@
 <br />
 <!-- UPDATE -->
 <div align="center">
-  <a href="https://github.com/proffapt/PROJECT_NAME">
+  <a href="https://github.com/harshkhandeparkar/PROJECT_NAME">
     <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
   </a>
 
@@ -27,12 +27,12 @@
   <!-- UPDATE -->
     <i>Project one liner slogan goes here</i>
     <br />
-    <a href="https://github.com/proffapt/PROJECT_NAME"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/harshkhandeparkar/PROJECT_NAME"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/proffapt/PROJECT_NAME/issues">Report Bug</a>
+    <a href="https://github.com/harshkhandeparkar/PROJECT_NAME/issues">Report Bug</a>
     ·
-    <a href="https://github.com/proffapt/PROJECT_NAME/issues">Request Feature</a>
+    <a href="https://github.com/harshkhandeparkar/PROJECT_NAME/issues">Request Feature</a>
   </p>
 </div>
 
@@ -59,7 +59,7 @@
 ## About The Project
 <!-- UPDATE -->
 <div align="center">
-  <a href="https://github.com/proffapt/PROJECT_NAME">
+  <a href="https://github.com/harshkhandeparkar/PROJECT_NAME">
     <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
   </a>
 </div>
@@ -112,7 +112,7 @@ _Now since we are done with the setting up of environment suitable for the proje
 <!-- UPDATE -->
 1. Clone the repo
    ```sh
-   git clone https://github.com/proffapt/PROJECT_NAME.git
+   git clone https://github.com/harshkhandeparkar/PROJECT_NAME.git
    ```
 2. Make the script executable
    ```sh
@@ -133,38 +133,12 @@ _Now since we are done with the setting up of environment suitable for the proje
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space.
 
 <div align="center">
-  <a href="https://github.com/proffapt/PROJECT_NAME">
+  <a href="https://github.com/harshkhandeparkar/PROJECT_NAME">
     <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632640-40dc440e-5ef3-4893-be48-618f2bd85f37.png">
   </a>
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-## Contact
-
-<p>
-📫 Arpit Bhardwaj ( aka proffapt ) -
-
-<a href="https://twitter.com/proffapt">
-  <img align="center" alt="proffapt's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
-</a>
-<a href="https://t.me/proffapt">
-  <img align="center" alt="proffapt's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/proffapt/">
-  <img align="center" alt="proffapt's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
-</a>
-<a href="mailto:proffapt@pm.me">
-  <img align="center" alt="proffapt's mail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" />
-</a>
-<a href="https://cybernity.group">
-  <img align="center" alt="proffapt's forum for cybernity" width="22px" src="https://cybernity.group/uploads/default/original/1X/a8338f86bbbedd39701c85d5f32cf3d817c04c27.png" />
-</a>
-</p>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -188,15 +162,15 @@ Do consider looking at other paradigms of this documentation
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/proffapt/PROJECT_NAME.svg?style=for-the-badge
-[contributors-url]: https://github.com/proffapt/PROJECT_NAME/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/proffapt/PROJECT_NAME.svg?style=for-the-badge
-[forks-url]: https://github.com/proffapt/PROJECT_NAME/network/members
-[stars-shield]: https://img.shields.io/github/stars/proffapt/PROJECT_NAME.svg?style=for-the-badge
-[stars-url]: https://github.com/proffapt/PROJECT_NAME/stargazers
-[issues-shield]: https://img.shields.io/github/issues/proffapt/PROJECT_NAME.svg?style=for-the-badge
-[issues-url]: https://github.com/proffapt/PROJECT_NAME/issues
-[license-shield]: https://img.shields.io/github/license/proffapt/PROJECT_NAME.svg?style=for-the-badge
-[license-url]: https://github.com/proffapt/PROJECT_NAME/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/harshkhandeparkar/PROJECT_NAME.svg?style=for-the-badge
+[contributors-url]: https://github.com/harshkhandeparkar/PROJECT_NAME/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/harshkhandeparkar/PROJECT_NAME.svg?style=for-the-badge
+[forks-url]: https://github.com/harshkhandeparkar/PROJECT_NAME/network/members
+[stars-shield]: https://img.shields.io/github/stars/harshkhandeparkar/PROJECT_NAME.svg?style=for-the-badge
+[stars-url]: https://github.com/harshkhandeparkar/PROJECT_NAME/stargazers
+[issues-shield]: https://img.shields.io/github/issues/harshkhandeparkar/PROJECT_NAME.svg?style=for-the-badge
+[issues-url]: https://github.com/harshkhandeparkar/PROJECT_NAME/issues
+[license-shield]: https://img.shields.io/github/license/harshkhandeparkar/PROJECT_NAME.svg?style=for-the-badge
+[license-url]: https://github.com/harshkhandeparkar/PROJECT_NAME/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/proffapt
+[linkedin-url]: https://linkedin.com/in/harshkhandeparkar
