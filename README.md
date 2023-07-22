@@ -8,8 +8,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![License][license-shield]][license-url]
 
 </div>
 
@@ -172,5 +171,3 @@ Do consider looking at other paradigms of this documentation
 [issues-url]: https://github.com/harshkhandeparkar/PROJECT_NAME/issues
 [license-shield]: https://img.shields.io/github/license/harshkhandeparkar/PROJECT_NAME.svg?style=for-the-badge
 [license-url]: https://github.com/harshkhandeparkar/PROJECT_NAME/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/harshkhandeparkar
