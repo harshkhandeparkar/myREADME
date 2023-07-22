@@ -29,9 +29,9 @@
     <a href="https://github.com/harshkhandeparkar/PROJECT_NAME"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/harshkhandeparkar/PROJECT_NAME/issues">Report Bug</a>
+    <a href="https://github.com/harshkhandeparkar/PROJECT_NAME/issues">Report Bug / Request Feature</a>
     ·
-    <a href="https://github.com/harshkhandeparkar/PROJECT_NAME/issues">Request Feature</a>
+    <a href="https://example.com">Some other link</a>
   </p>
 </div>
 
